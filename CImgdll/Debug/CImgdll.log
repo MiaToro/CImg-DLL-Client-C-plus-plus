@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  CImgdll.cpp
+c:\users\mia\documents\visual studio 2015\projects\cimgdll\cimgdll\cimgdll.cpp(12): warning C4273: 'CImgdll::CImgc::get': inconsistent dll linkage
+  c:\users\mia\documents\visual studio 2015\projects\cimgdll\cimgdll\cimgdll.h(17): note: see previous definition of 'get'
+  dllmain.cpp
+     Creating library C:\Users\Mia\Documents\Visual Studio 2015\Projects\CImgdll\Debug\CImgdll.lib and object C:\Users\Mia\Documents\Visual Studio 2015\Projects\CImgdll\Debug\CImgdll.exp
+  CImgdll.vcxproj -> C:\Users\Mia\Documents\Visual Studio 2015\Projects\CImgdll\Debug\CImgdll.dll
+  CImgdll.vcxproj -> C:\Users\Mia\Documents\Visual Studio 2015\Projects\CImgdll\Debug\CImgdll.pdb (Full PDB)
